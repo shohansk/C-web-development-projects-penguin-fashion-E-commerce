@@ -8,9 +8,36 @@
     border-radius: 20px;
 
 }
+.button-all{
+    background-color: #A4BC46;
+    border: 0;
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+}
 .card-ff{
     
     border: 0;
     background-color: white;
 
+}
+.filled{
+        color: #A4BC46;
+        font-size: 20px;
+}
+.pic{
+    padding: 50px;
+    height: 450px;
+    
+}
+.pic2{
+    padding: 50px;
+    height: 450px;
+}
+.pics{
+    height: 700px;
+    width: 650px;
+}
+.color-textt{
+    color: #FABE4C;
 }
